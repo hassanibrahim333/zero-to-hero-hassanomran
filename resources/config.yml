@@ -1,0 +1,6 @@
+database:
+  connectionString : "postgresql://hassan:Cyn9NBFVBcxwo0CpFgRCsw@free-tier13.aws-eu-central-1.cockroachlabs.cloud:26257/absurd-phantom-3581.tribal?sslmode=verify-full"
+
+kafka:
+    URL: "localhost:9092"
+    topic: "topic_one"
